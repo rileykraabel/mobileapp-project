@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="deleteColor">#FC0303</color>
+    <color name="pressed_gray">#4a4a4a</color>
+    <color name="label_gray">#6b6b6b</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="dark_label_gray">#454545</color>
+    <color name="black_overlay">#66000000</color>#0000FF
+    <color name="blue1">#3697ff</color>
+    <color name="dark_blue1">#1e5187</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+
+    <!--    Dark Theme Colors   -->
+    <color name="DT_background">#18171C</color>
+    <color name="DT_foreground">#23252A</color>
+    <color name="DT_primary">#1C1C1E</color>
+
+    <!--   Primary Button Colors   -->
+    <color name="icon_hovering">#2B61D4</color>
+    <color name="button_hovering">#E2ECFF</color>
+    <color name="icon_pressed">#1E57CE</color>
+    <color name="button_pressed">#BFD5F6</color>
+
+    <!--   New Light Theme Colors   -->
+    <color name="PosiBlack">#1E1E1E</color>
+    <color name="UltramarineBlue">#325AFF</color>
+    <color name="MeadowGreen">#00BE82</color>
+    <color name="FlatOrange">#FF7832</color>
+    <color name="CoronationPink">#FFAAC8</color>
+    <color name="LightGrey">#F3F3F3</color>
+
+    <!--   Palette Colors   -->
+    <color name="row0_col0">#8D0000</color>
+    <color name="row0_col1">#C50000</color>
+    <color name="row0_col2">#FF8E00</color>
+    <color name="row0_col3">#FFFF00</color>
+    <color name="row0_col4">#00FF00</color>
+
+    <color name="row1_col0">#00FFFF</color>
+    <color name="row1_col1">#417BE5</color>
+    <color name="row1_col2">#0000FF</color>
+    <color name="row1_col3">#8E00FF</color>
+    <color name="row1_col4">#FF00FF</color>
+
+    <color name="row2_col0">#D87360</color>
+    <color name="row2_col1">#E78E8E</color>
+    <color name="row2_col2">#F8C491</color>
+    <color name="row2_col3">#FFE18E</color>
+    <color name="row2_col4">#ADD19E</color>
+
+    <color name="row3_col0">#98BCC2</color>
+    <color name="row3_col1">#9ABAF2</color>
+    <color name="row3_col2">#95BDE5</color>
+    <color name="row3_col3">#AB9DD0</color>
+    <color name="row3_col4">#CF9CB5</color>
+
+    <color name="row4_col0">#000000</color>
+    <color name="row4_col2">#606060</color>
+    <color name="row4_col1">#8E8E8E</color>
+    <color name="row4_col3">#C5C5C5</color>
+    <color name="row4_col4">#FFFFFF</color>
+
+</resources>

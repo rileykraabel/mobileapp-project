@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670428987950",
+    "project_id": "drawable-fa814",
+    "storage_bucket": "drawable-fa814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670428987950:android:a7bff782b83a5493ff15bf",
+        "android_client_info": {
+          "package_name": "com.example.drawable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzxDEABaoF-7m_dsy9Lzh6ojp-aUa9o1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="20dp"
+    android:layout_marginHorizontal="20dp">
+
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp" >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sizes"
+            android:textSize="20sp"
+            android:gravity="center"/>
+
+        <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp" >
+
+        <ImageButton
+            android:id="@+id/thinPen"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/thinpen"
+            android:layout_margin="10dp"
+            android:contentDescription="@string/thin_pen" />
+
+        <ImageButton
+            android:id="@+id/medPen"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/medpen"
+            android:layout_margin="10dp"
+            android:contentDescription="@string/med_pen" />
+
+        <ImageButton
+            android:id="@+id/thickPen"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/thickpen"
+            android:layout_margin="10dp"
+            android:contentDescription="@string/thick_pen" />
+
+    </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Shapes"
+            android:textSize="20sp"
+            android:gravity="center"/>
+
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp" >
+
+
+        <ImageButton
+            android:id="@+id/trianglePen"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/triangle"
+            android:layout_margin="10dp"
+            android:contentDescription="@string/triangle" />
+
+        <ImageButton
+            android:id="@+id/squarePen"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/square"
+            android:layout_margin="10dp"
+            android:contentDescription="@string/square" />
+
+        <ImageButton
+            android:id="@+id/roundPen"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/circle"
+            android:layout_margin="10dp"
+            android:contentDescription="@string/round" />
+    </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

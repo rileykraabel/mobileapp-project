@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Drawable</string>
+    <string name="back">Back</string>
+    <string name="palette">Palette</string>
+    <string name="paint_brush">Paintbrush</string>
+    <string name="paint_can">Paintcan</string>
+    <string name="spray_can">Spraycan</string>
+    <string name="eraser">Eraser</string>
+    <string name="drawing">Drawing Image</string>
+    <string name="drawingName">Drawing</string>
+    <string name="drawingHint">Drawing Name</string>
+    <string name="thin_pen">Thin Pen</string>
+    <string name="med_pen">Medium Pen</string>
+    <string name="thick_pen">Thick Pen</string>
+    <string name="triangle">Triangle</string>
+    <string name="square">Square</string>
+    <string name="round">Round</string>
+    <string name="blur">Blur</string>
+    <string name="inverter">Inverter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
